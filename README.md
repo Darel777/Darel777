@@ -10,6 +10,3 @@
 - 📄 I’m majoring in Computer Science and Software Engineering
 - 🍰 My bi li bi li account: [零氪工作室的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/32834111?spm_id_from=444.41.0.0)
 - ⚡ My You tube Channel: [ 零氪工作室 - YouTube](https://www.youtube.com/channel/UCQw6cR62ettMmHDtx3X1HMg)
-
- <p align="center" >
- <a href="http://123.56.105.174/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Darel777&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="Darel(0kr)'s github stats" /></a> 
